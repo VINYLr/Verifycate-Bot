@@ -32,4 +32,5 @@ app.listen(5000, () => {
     console.log('Express server running on port 5000');
 });
 
-client.login('');  // 토큰 교체
+
+client.login('TOKEN');  // 토큰 교체
